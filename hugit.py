@@ -12,6 +12,7 @@ def register():
 
 @route('/new')
 def new():
+	num = 0
 	return 'new'
 
 

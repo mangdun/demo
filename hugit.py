@@ -10,4 +10,8 @@ def login():
 def register():
 	return 'register'
 
+@route('/new')
+def new():
+	return 'new'
+
 
